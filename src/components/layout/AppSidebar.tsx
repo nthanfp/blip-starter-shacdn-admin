@@ -104,7 +104,7 @@ export function AppSidebar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             B
           </div>
-          BLIP ERP
+          BLIP Starter
         </div>
       </SidebarHeader>
       <SidebarContent>

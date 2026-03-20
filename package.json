@@ -1,8 +1,9 @@
 {
-  "name": "blip-erp-fe",
+  "name": "blip-starter",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A modern React + TypeScript + Vite starter template with shadcn/ui, TanStack Table, and more",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
